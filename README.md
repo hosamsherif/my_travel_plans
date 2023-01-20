@@ -8,6 +8,3 @@ Hossam sherif
 # location
 Egypt-Cairo
 
-# email
-hosamsherif2000@gmail.com
-
