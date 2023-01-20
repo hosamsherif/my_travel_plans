@@ -6,5 +6,14 @@ A simple app to keep track of destinations I'd like to visit.
 Hossam sherif
 
 # location
-Egypt-Cairo
+Egypt - Cairo
 
+<<<<<<< HEAD
+||||||| 98138d0
+# email
+hosamsherif2000@gmail.com
+
+=======
+# email
+hosamsherif2000@gmail.com
+>>>>>>> documentation
